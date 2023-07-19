@@ -7,7 +7,7 @@ In my free time I learn about cyber security, physical simulations and sometimes
 Allways trying to improve my C++ skills of course! Other from that I'm pretty fluent in python
 I'd say, but who am I to judge. 
 
-On my profile you'll find some of my lazy coded after work projects, or more like those where I
+On my profile you'll find some of my poorly styled after work projects, or more like those where I
 wasn't to lazy to create a git repo. 
 
 Have a good one! -K
